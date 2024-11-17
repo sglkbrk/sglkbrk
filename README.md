@@ -58,7 +58,7 @@ With expertise in modern technologies like **React.js**, **Vue.js**, and **SAP F
 Feel free to reach out for questions, suggestions, or collaboration opportunities:  
 - 🌐 **Website:** [buraksaglik.com](https://buraksaglik.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/burak-saglik](https://www.linkedin.com/in/burak-saglik)  
-- 📧 **Email:** [burak@example.com](mailto:burak@example.com)  
+- 📧 **Email:** [sglk.brk@gmail.com](mailto:sglk.brk@gmail.com)  
 
 ---
 
