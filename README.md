@@ -49,7 +49,8 @@ With expertise in modern technologies like **React.js**, **Vue.js**, and **SAP F
 ---
 
 ## 📈 GitHub Stats  
- 
+ ![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sglkbrk&show_icons=true&theme=radical)  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sglkbrk&layout=compact&theme=radical) 
 
 ---
 
