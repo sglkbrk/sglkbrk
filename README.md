@@ -42,8 +42,8 @@ With expertise in modern technologies like **React.js**, **Vue.js**, and **SAP F
 
 ## 🌟 Featured Projects  
 
-- **[Vue Chat](#):** A dynamic chat application built using Vue.js.  
-- **[Next Gallery](#):** A responsive and elegant gallery powered by Next.js.  
+- **[Vue Chat](https://chat.buraksaglik.com):** A dynamic chat application built using Vue.js.  
+- **[Next Gallery](https://gallery.buraksaglik.com):** A responsive and elegant gallery powered by Next.js.  
 - **[Personal Portfolio](https://buraksaglik.com):** Showcasing my work and skills.
 - **[Blog](https://blog.buraksaglik.com):** Blog.  
 
